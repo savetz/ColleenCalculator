@@ -4,6 +4,7 @@
 Printouts contributed by Carol Shaw with permission to share, imaged by Kay Savetz, and OCRd/proofread by Atari_Ace.
 
 Two versions are here: an 8K version that may be the finished version, and an earlier 9K version.
+
 8k version images: https://archive.org/details/ColleenCalculator
 
 9k version images: https://archive.org/details/ColleenCalculator9K/
