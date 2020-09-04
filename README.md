@@ -8,3 +8,5 @@ Two versions are here: an 8K version that may be the finished version, and an ea
 9k version images: https://archive.org/details/ColleenCalculator9K/
 
 Discussion at AtariAge forums: https://atariage.com/forums/topic/256541-colleen-floating-point-routines-and-colleen-calculator-source-code/
+
+Carol's original printouts are now in the collecion of The Strong Museum of Play https://www.museumofplay.org
